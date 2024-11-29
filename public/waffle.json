@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Waffle",
+        "description": "A simple, golden, crispy waffle served with syrup and butter.",
+        "price": 120,
+        "image": "https://i.ibb.co.com/V2JrRP6/waffles-with-strawberry-144627-13830.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chocolate Waffle",
+        "description": "A rich waffle topped with melted chocolate and whipped cream.",
+        "price": 145,
+        "image": "https://i.ibb.co.com/h78nhm4/waffle-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Berry Waffle",
+        "description": "A fresh waffle topped with mixed berries and a drizzle of honey.",
+        "price": 220,
+        "image": "https://i.ibb.co.com/jMvDStS/tasty-waffle-with-blueberries-strawberries.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Banana Nut Waffle",
+        "description": "A waffle topped with sliced bananas, walnuts, and caramel sauce.",
+        "price": 160,
+        "image": "https://i.ibb.co.com/gMQKCB7/top-view-pancakes-delicious-with-fruits-chocolate-dark-background.png"
+    },
+    {
+        "id": 5,
+        "name": "Caramel Waffle",
+        "description": "A crispy waffle drizzled with rich caramel sauce and a sprinkle of sea salt.",
+        "price": 115,
+        "image": "https://i.ibb.co.com/7NfmH1K/CARAMEL-APPLE-WAFFLES.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Peanut Butter Waffle",
+        "description": "A waffle with peanut butter spread and chocolate chips, topped with whipped cream.",
+        "price": 185,
+        "image": "https://i.ibb.co.com/hMLCRc7/side-view-chocolate-waffle-with-honey-board-141793-4862.jpg"
+    }
+]
