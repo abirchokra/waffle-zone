@@ -5,7 +5,7 @@ Welcome to **Waffle Zone**, your go-to website for exploring, enjoying, and cele
 ---
 
 #Live Link
-https://darling-mochi-f0760a.netlify.app/corporate  
+https://wafflezone.netlify.app/
 
 ---
 
